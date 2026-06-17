@@ -32,3 +32,4 @@ A modern, high-performance web interface designed for seamless asset staging and
 └── README.md          # Project technical documentation
 
 ## Live demo:
+https://hooriasadiq.github.io/internee.pk_drag_drop/
